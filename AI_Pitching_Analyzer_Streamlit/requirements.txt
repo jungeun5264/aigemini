@@ -2,4 +2,5 @@ streamlit
 requests
 opencv-python-headless
 numpy
+pandas
 Pillow
